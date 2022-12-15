@@ -1,5 +1,4 @@
 import styled from '@emotion/styled';
-
 export const TransactionHistoryStyled = styled.table`
   width: 360px;
   border: 15px solid #9f9f9f;

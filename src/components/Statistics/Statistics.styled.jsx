@@ -1,5 +1,4 @@
 import styled from '@emotion/styled';
-
 export const DataSection = styled.section`
   width: 400px;
   box-shadow: 8px 8px 20px -6px rgba(212, 175, 55, 0.6);

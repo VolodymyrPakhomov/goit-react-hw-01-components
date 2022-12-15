@@ -1,5 +1,6 @@
 import PropTypes from 'prop-types';
 import { rendColor } from '../../utils/randomStyleColor';
+
 import {
   DataSection,
   StatTitle,
