@@ -24,18 +24,18 @@ export const Tr = styled.tr`
   padding: 12px;
   border: 1px solid #000000;
   background: #fafafa;
-  color: #000000 ;
+  color: #000000;
 `;
 
 export const Th = styled.th`
   font-weight: bold;
   padding: 12px;
-  background: #f2fcfc ;
+  background: #f2fcfc;
   border: 1px solid #757575;
 `;
 export const Td = styled.td`
   padding: 12px;
   border: 1px solid #757575;
-    background-color: #f2fcfc;
+  background-color: #f2fcfc;
   color: #000000;
 `;
